@@ -1,0 +1,32 @@
+GitHub Deployment Commands
+========================
+
+After creating your repository on GitHub, run these commands:
+
+1. Add remote repository (replace YOUR_USERNAME with your GitHub username):
+   git remote add origin https://github.com/YOUR_USERNAME/edumanage-student-management.git
+
+2. Push to GitHub:
+   git push -u origin main
+
+3. Verify deployment:
+   git remote -v
+
+Alternative repository names if the above is taken:
+- edumanage-system
+- student-management-react
+- edumanage-platform
+- school-management-system
+
+Your project is ready to deploy! 🚀
+
+Features included in this deployment:
+✅ Complete student and teacher dashboards
+✅ Course management and enrollment
+✅ Assignment submission with file upload
+✅ Attendance tracking
+✅ Social media integration (Facebook, Twitter/X, LinkedIn, Instagram)
+✅ Support system (Help, Contact, Privacy, Terms)
+✅ Responsive design
+✅ Modern UI with animations
+✅ Comprehensive documentation
